@@ -1,0 +1,1427 @@
+[
+  {
+    "id": "strip-beach",
+    "name": "Beach",
+    "tag": "Strip · Summer",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-beach.png?more20",
+    "thumb": "/frames/by-count/2/strip-beach-thumb.jpg?more20",
+    "slots": [
+      {
+        "x": 24.91,
+        "y": 11.64,
+        "w": 57.13,
+        "h": 28.52
+      },
+      {
+        "x": 18.24,
+        "y": 43.76,
+        "w": 63.33,
+        "h": 31.52
+      }
+    ],
+    "bg": "#FFF3E0",
+    "ink": "#E65100",
+    "accent": "#FFAB91",
+    "canvasW": 1080,
+    "canvasH": 2027
+  },
+  {
+    "id": "strip-bow",
+    "name": "Bow",
+    "tag": "Strip · Coquette",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-bow.png?hd17",
+    "thumb": "/frames/by-count/2/strip-bow-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 4.26,
+        "y": 5.83,
+        "w": 92.04,
+        "h": 35.56
+      },
+      {
+        "x": 5.37,
+        "y": 46.85,
+        "w": 90.46,
+        "h": 29.87
+      }
+    ],
+    "bg": "#FFF0F5",
+    "ink": "#C2185B",
+    "accent": "#FF80AB",
+    "canvasW": 1080,
+    "canvasH": 2109
+  },
+  {
+    "id": "strip-bubble",
+    "name": "Bubble",
+    "tag": "Strip · Cool",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-bubble.png?hd17",
+    "thumb": "/frames/by-count/2/strip-bubble-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 17.69,
+        "y": 9.72,
+        "w": 64.63,
+        "h": 31.06
+      },
+      {
+        "x": 17.87,
+        "y": 48.55,
+        "w": 64.44,
+        "h": 31.06
+      }
+    ],
+    "bg": "#E3F2FD",
+    "ink": "#1565C0",
+    "accent": "#64B5F6",
+    "canvasW": 1080,
+    "canvasH": 2202
+  },
+  {
+    "id": "strip-corgi",
+    "name": "Corgi",
+    "tag": "Strip · Dog",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-corgi.png?pet21",
+    "thumb": "/frames/by-count/2/strip-corgi-thumb.jpg?pet21",
+    "slots": [
+      {
+        "x": 14.72,
+        "y": 14.16,
+        "w": 67.5,
+        "h": 31.06
+      },
+      {
+        "x": 15.83,
+        "y": 50.28,
+        "w": 66.85,
+        "h": 32.93
+      }
+    ],
+    "bg": "#FFF8E1",
+    "ink": "#E65100",
+    "accent": "#FFB74D",
+    "canvasW": 1080,
+    "canvasH": 1977
+  },
+  {
+    "id": "strip-daisy",
+    "name": "Daisy",
+    "tag": "Strip · Floral",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-daisy.png?hd17",
+    "thumb": "/frames/by-count/2/strip-daisy-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 6.76,
+        "y": 6.08,
+        "w": 86.57,
+        "h": 38.4
+      },
+      {
+        "x": 5.65,
+        "y": 48.63,
+        "w": 87.5,
+        "h": 34.09
+      }
+    ],
+    "bg": "#FFFDE7",
+    "ink": "#F9A825",
+    "accent": "#FFE082",
+    "canvasW": 1080,
+    "canvasH": 2482
+  },
+  {
+    "id": "strip-fresh",
+    "name": "Fresh",
+    "tag": "Strip · Mint",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-fresh.png?hd17",
+    "thumb": "/frames/by-count/2/strip-fresh-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 20.56,
+        "y": 8.99,
+        "w": 59.07,
+        "h": 31.23
+      },
+      {
+        "x": 20.56,
+        "y": 47.03,
+        "w": 59.07,
+        "h": 31.28
+      }
+    ],
+    "bg": "#E8F5E9",
+    "ink": "#2E7D32",
+    "accent": "#81C784",
+    "canvasW": 1080,
+    "canvasH": 1969
+  },
+  {
+    "id": "strip-home-sweet",
+    "name": "Home Sweet",
+    "tag": "Strip · Home",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-home-sweet.png?hd17",
+    "thumb": "/frames/by-count/2/strip-home-sweet-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 32.41,
+        "y": 19.94,
+        "w": 55.56,
+        "h": 30.85
+      },
+      {
+        "x": 35.28,
+        "y": 54.11,
+        "w": 54.63,
+        "h": 30.9
+      }
+    ],
+    "bg": "#FFF0F5",
+    "ink": "#E85A8C",
+    "accent": "#FF8FB5",
+    "canvasW": 1080,
+    "canvasH": 1715
+  },
+  {
+    "id": "strip-husky",
+    "name": "Husky",
+    "tag": "Strip · Dog",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-husky.png?pet21",
+    "thumb": "/frames/by-count/2/strip-husky-thumb.jpg?pet21",
+    "slots": [
+      {
+        "x": 20.09,
+        "y": 13.91,
+        "w": 53.52,
+        "h": 30.36
+      },
+      {
+        "x": 27.31,
+        "y": 44.17,
+        "w": 53.7,
+        "h": 33.33
+      }
+    ],
+    "bg": "#E3F2FD",
+    "ink": "#1565C0",
+    "accent": "#64B5F6",
+    "canvasW": 1080,
+    "canvasH": 1920
+  },
+  {
+    "id": "strip-moon",
+    "name": "Moon",
+    "tag": "Strip · Dreamy",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-moon.png?more20",
+    "thumb": "/frames/by-count/2/strip-moon-thumb.jpg?more20",
+    "slots": [
+      {
+        "x": 27.5,
+        "y": 10.95,
+        "w": 46.57,
+        "h": 24.93
+      },
+      {
+        "x": 27.5,
+        "y": 50.23,
+        "w": 46.48,
+        "h": 24.99
+      }
+    ],
+    "bg": "#EDE7F6",
+    "ink": "#5E35B1",
+    "accent": "#B39DDB",
+    "canvasW": 1080,
+    "canvasH": 1917
+  },
+  {
+    "id": "strip-nyan",
+    "name": "Nyan",
+    "tag": "Strip · Cat",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-nyan.png?pet21",
+    "thumb": "/frames/by-count/2/strip-nyan-thumb.jpg?pet21",
+    "slots": [
+      {
+        "x": 3.15,
+        "y": 8.04,
+        "w": 95.37,
+        "h": 36.16
+      },
+      {
+        "x": 1.48,
+        "y": 49.42,
+        "w": 95,
+        "h": 35.41
+      }
+    ],
+    "bg": "#FFF0F5",
+    "ink": "#E85A8C",
+    "accent": "#FFAB91",
+    "canvasW": 1080,
+    "canvasH": 1991
+  },
+  {
+    "id": "strip-sunny",
+    "name": "Sunny",
+    "tag": "Strip · Warm",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-sunny.png?more20",
+    "thumb": "/frames/by-count/2/strip-sunny-thumb.jpg?more20",
+    "slots": [
+      {
+        "x": 25.83,
+        "y": 13.91,
+        "w": 48.52,
+        "h": 26.72
+      },
+      {
+        "x": 25.93,
+        "y": 49.38,
+        "w": 48.43,
+        "h": 26.67
+      }
+    ],
+    "bg": "#FFF3E0",
+    "ink": "#EF6C00",
+    "accent": "#FFB74D",
+    "canvasW": 1080,
+    "canvasH": 1920
+  },
+  {
+    "id": "strip-sweet",
+    "name": "Sweet",
+    "tag": "Strip · Warm",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-sweet.png?hd17",
+    "thumb": "/frames/by-count/2/strip-sweet-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 3.8,
+        "y": 5.49,
+        "w": 82.41,
+        "h": 38.07
+      },
+      {
+        "x": 13.89,
+        "y": 51.36,
+        "w": 83.61,
+        "h": 35.18
+      }
+    ],
+    "bg": "#FFF9C4",
+    "ink": "#F57F17",
+    "accent": "#FFD54F",
+    "canvasW": 1080,
+    "canvasH": 2422
+  },
+  {
+    "id": "strip-tux",
+    "name": "Tux",
+    "tag": "Strip · Cat",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/strip-tux.png?pet21",
+    "thumb": "/frames/by-count/2/strip-tux-thumb.jpg?pet21",
+    "slots": [
+      {
+        "x": 4.81,
+        "y": 6.68,
+        "w": 90.65,
+        "h": 33.44
+      },
+      {
+        "x": 4.81,
+        "y": 46.68,
+        "w": 91.3,
+        "h": 32.46
+      }
+    ],
+    "bg": "#FAFAFA",
+    "ink": "#212121",
+    "accent": "#757575",
+    "canvasW": 1080,
+    "canvasH": 2560
+  },
+  {
+    "id": "strip-berry",
+    "name": "Berry",
+    "tag": "Strip · Berry",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-berry.png?hd17",
+    "thumb": "/frames/by-count/3/strip-berry-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 15.56,
+        "y": 5.97,
+        "w": 70.56,
+        "h": 22.34
+      },
+      {
+        "x": 15.56,
+        "y": 35.05,
+        "w": 70.46,
+        "h": 22.38
+      },
+      {
+        "x": 15.56,
+        "y": 64.22,
+        "w": 70.56,
+        "h": 22.34
+      }
+    ],
+    "bg": "#FFD6E8",
+    "ink": "#C62828",
+    "accent": "#EF5350",
+    "canvasW": 1080,
+    "canvasH": 2462
+  },
+  {
+    "id": "strip-berry-pop",
+    "name": "Berry Pop",
+    "tag": "Strip · Berry",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-berry-pop.png?more20",
+    "thumb": "/frames/by-count/3/strip-berry-pop-thumb.jpg?more20",
+    "slots": [
+      {
+        "x": 25.09,
+        "y": 7.19,
+        "w": 49.63,
+        "h": 23.54
+      },
+      {
+        "x": 30,
+        "y": 35.78,
+        "w": 45.46,
+        "h": 20
+      },
+      {
+        "x": 25.19,
+        "y": 57.14,
+        "w": 50.46,
+        "h": 23.75
+      }
+    ],
+    "bg": "#E8EAF6",
+    "ink": "#3949AB",
+    "accent": "#7986CB",
+    "canvasW": 1080,
+    "canvasH": 1920
+  },
+  {
+    "id": "strip-best-day",
+    "name": "Best Day",
+    "tag": "Strip · Camera",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-best-day.png?hd17",
+    "thumb": "/frames/by-count/3/strip-best-day-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 15.93,
+        "y": 14.68,
+        "w": 68.89,
+        "h": 19.95
+      },
+      {
+        "x": 15.65,
+        "y": 39.01,
+        "w": 68.8,
+        "h": 19.88
+      },
+      {
+        "x": 15.65,
+        "y": 66.07,
+        "w": 68.8,
+        "h": 19.95
+      }
+    ],
+    "bg": "#FFD6E8",
+    "ink": "#C2185B",
+    "accent": "#FF8FB5",
+    "canvasW": 1080,
+    "canvasH": 2561
+  },
+  {
+    "id": "strip-cherry",
+    "name": "Cherry",
+    "tag": "Strip · Heart",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-cherry.png?hd17",
+    "thumb": "/frames/by-count/3/strip-cherry-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 16.39,
+        "y": 7.45,
+        "w": 67.87,
+        "h": 21.18
+      },
+      {
+        "x": 16.39,
+        "y": 35.32,
+        "w": 67.87,
+        "h": 21.18
+      },
+      {
+        "x": 16.39,
+        "y": 62.64,
+        "w": 67.78,
+        "h": 21.15
+      }
+    ],
+    "bg": "#FFEBEE",
+    "ink": "#C62828",
+    "accent": "#EF9A9A",
+    "canvasW": 1080,
+    "canvasH": 2899
+  },
+  {
+    "id": "strip-chill",
+    "name": "Chill",
+    "tag": "Strip · Cool",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-chill.png?hd17",
+    "thumb": "/frames/by-count/3/strip-chill-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 14.26,
+        "y": 5.38,
+        "w": 71.76,
+        "h": 23.24
+      },
+      {
+        "x": 14.35,
+        "y": 32.47,
+        "w": 71.67,
+        "h": 23.24
+      },
+      {
+        "x": 14.26,
+        "y": 59.53,
+        "w": 71.76,
+        "h": 23.21
+      }
+    ],
+    "bg": "#E0F7FA",
+    "ink": "#00838F",
+    "accent": "#4DD0E1",
+    "canvasW": 1080,
+    "canvasH": 2676
+  },
+  {
+    "id": "strip-ducky",
+    "name": "Ducky",
+    "tag": "Strip · Fun",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-ducky.png?more20",
+    "thumb": "/frames/by-count/3/strip-ducky-thumb.jpg?more20",
+    "slots": [
+      {
+        "x": 27.5,
+        "y": 9.18,
+        "w": 48.89,
+        "h": 21.25
+      },
+      {
+        "x": 25.65,
+        "y": 33.95,
+        "w": 48.15,
+        "h": 20.67
+      },
+      {
+        "x": 28.61,
+        "y": 57.97,
+        "w": 48.52,
+        "h": 20.93
+      }
+    ],
+    "bg": "#FFF9C4",
+    "ink": "#F9A825",
+    "accent": "#FFEE58",
+    "canvasW": 1080,
+    "canvasH": 1906
+  },
+  {
+    "id": "strip-honey",
+    "name": "Honey",
+    "tag": "Strip · Warm",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-honey.png?hd17",
+    "thumb": "/frames/by-count/3/strip-honey-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 16.3,
+        "y": 6.22,
+        "w": 67.13,
+        "h": 21.74
+      },
+      {
+        "x": 16.48,
+        "y": 32.4,
+        "w": 66.76,
+        "h": 21.62
+      },
+      {
+        "x": 16.3,
+        "y": 58.42,
+        "w": 67.13,
+        "h": 21.74
+      }
+    ],
+    "bg": "#FFF8E1",
+    "ink": "#F57F17",
+    "accent": "#FFD54F",
+    "canvasW": 1080,
+    "canvasH": 2475
+  },
+  {
+    "id": "strip-love-hearts",
+    "name": "Love Around",
+    "tag": "Strip · Heart",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-love-hearts.png?hd17",
+    "thumb": "/frames/by-count/3/strip-love-hearts-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 14.54,
+        "y": 4.96,
+        "w": 70.37,
+        "h": 19.81
+      },
+      {
+        "x": 14.44,
+        "y": 33.4,
+        "w": 70.46,
+        "h": 19.71
+      },
+      {
+        "x": 14.63,
+        "y": 61.68,
+        "w": 70.28,
+        "h": 19.74
+      }
+    ],
+    "bg": "#FFD6E8",
+    "ink": "#5B8DEF",
+    "accent": "#8BB8F0",
+    "canvasW": 1080,
+    "canvasH": 3186
+  },
+  {
+    "id": "strip-lucky-day",
+    "name": "Lucky Day",
+    "tag": "Strip · Mint",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-lucky-day.png?hd17",
+    "thumb": "/frames/by-count/3/strip-lucky-day-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 15,
+        "y": 7.25,
+        "w": 69.54,
+        "h": 22.26
+      },
+      {
+        "x": 15,
+        "y": 34.64,
+        "w": 69.63,
+        "h": 22.26
+      },
+      {
+        "x": 15,
+        "y": 61.89,
+        "w": 69.54,
+        "h": 22.29
+      }
+    ],
+    "bg": "#E8F5E9",
+    "ink": "#2E7D32",
+    "accent": "#66BB6A",
+    "canvasW": 1080,
+    "canvasH": 2705
+  },
+  {
+    "id": "strip-meow-k",
+    "name": "Meow Soft",
+    "tag": "Strip · Cat",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-meow-k.png?pet21",
+    "thumb": "/frames/by-count/3/strip-meow-k-thumb.jpg?pet21",
+    "slots": [
+      {
+        "x": 19.91,
+        "y": 5.42,
+        "w": 60.83,
+        "h": 25.26
+      },
+      {
+        "x": 19.26,
+        "y": 32.19,
+        "w": 61.85,
+        "h": 27.4
+      },
+      {
+        "x": 19.63,
+        "y": 60.57,
+        "w": 56.94,
+        "h": 23.44
+      }
+    ],
+    "bg": "#FFE8D0",
+    "ink": "#E85A8C",
+    "accent": "#FFCC80",
+    "canvasW": 1080,
+    "canvasH": 1920
+  },
+  {
+    "id": "strip-purr",
+    "name": "Purr",
+    "tag": "Strip · Cat",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-purr.png?pet21",
+    "thumb": "/frames/by-count/3/strip-purr-thumb.jpg?pet21",
+    "slots": [
+      {
+        "x": 27.04,
+        "y": 9.98,
+        "w": 56.48,
+        "h": 20.9
+      },
+      {
+        "x": 27.13,
+        "y": 33.85,
+        "w": 57.5,
+        "h": 21.94
+      },
+      {
+        "x": 14.26,
+        "y": 61.21,
+        "w": 57.41,
+        "h": 20.28
+      }
+    ],
+    "bg": "#FCE4EC",
+    "ink": "#C2185B",
+    "accent": "#F48FB1",
+    "canvasW": 1080,
+    "canvasH": 1923
+  },
+  {
+    "id": "strip-shiba",
+    "name": "Shiba",
+    "tag": "Strip · Dog",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-shiba.png?pet21",
+    "thumb": "/frames/by-count/3/strip-shiba-thumb.jpg?pet21",
+    "slots": [
+      {
+        "x": 5.56,
+        "y": 2.24,
+        "w": 89.72,
+        "h": 30.65
+      },
+      {
+        "x": 5.74,
+        "y": 35.8,
+        "w": 89.26,
+        "h": 25.42
+      },
+      {
+        "x": 14.07,
+        "y": 63.98,
+        "w": 70.28,
+        "h": 22.63
+      }
+    ],
+    "bg": "#EFEBE9",
+    "ink": "#5D4037",
+    "accent": "#FF8A65",
+    "canvasW": 1080,
+    "canvasH": 2718
+  },
+  {
+    "id": "strip-sky",
+    "name": "Sky",
+    "tag": "Strip · Cool",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-sky.png?hd17",
+    "thumb": "/frames/by-count/3/strip-sky-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 16.11,
+        "y": 7.87,
+        "w": 67.96,
+        "h": 21.74
+      },
+      {
+        "x": 16.2,
+        "y": 34.94,
+        "w": 67.87,
+        "h": 21.66
+      },
+      {
+        "x": 16.2,
+        "y": 61.98,
+        "w": 68.15,
+        "h": 21.74
+      }
+    ],
+    "bg": "#E3F2FD",
+    "ink": "#1565C0",
+    "accent": "#64B5F6",
+    "canvasW": 1080,
+    "canvasH": 2567
+  },
+  {
+    "id": "strip-the-moment",
+    "name": "The Moment",
+    "tag": "Strip · Fun",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-the-moment.png?hd17",
+    "thumb": "/frames/by-count/3/strip-the-moment-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 9.72,
+        "y": 3.93,
+        "w": 78.43,
+        "h": 25.42
+      },
+      {
+        "x": 11.94,
+        "y": 33.73,
+        "w": 76.3,
+        "h": 25.33
+      },
+      {
+        "x": 9.63,
+        "y": 63.3,
+        "w": 78.61,
+        "h": 25.49
+      }
+    ],
+    "bg": "#FFFFFF",
+    "ink": "#222222",
+    "accent": "#FF6B9D",
+    "canvasW": 1080,
+    "canvasH": 3131
+  },
+  {
+    "id": "strip-woof",
+    "name": "Woof",
+    "tag": "Strip · Dog",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-woof.png?pet21",
+    "thumb": "/frames/by-count/3/strip-woof-thumb.jpg?pet21",
+    "slots": [
+      {
+        "x": 18.43,
+        "y": 5.89,
+        "w": 63.61,
+        "h": 23.85
+      },
+      {
+        "x": 18.43,
+        "y": 34.24,
+        "w": 63.61,
+        "h": 23.88
+      },
+      {
+        "x": 18.43,
+        "y": 62.56,
+        "w": 63.61,
+        "h": 23.88
+      }
+    ],
+    "bg": "#E8F5E9",
+    "ink": "#2E7D32",
+    "accent": "#81C784",
+    "canvasW": 1080,
+    "canvasH": 2684
+  },
+  {
+    "id": "strip-xoxo",
+    "name": "xoxo",
+    "tag": "Strip · Coquette",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/strip-xoxo.png?hd17",
+    "thumb": "/frames/by-count/3/strip-xoxo-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 18.8,
+        "y": 12.82,
+        "w": 64.26,
+        "h": 22.08
+      },
+      {
+        "x": 18.8,
+        "y": 39.19,
+        "w": 64.44,
+        "h": 22.08
+      },
+      {
+        "x": 18.8,
+        "y": 65.6,
+        "w": 63.98,
+        "h": 22.08
+      }
+    ],
+    "bg": "#FFF0F5",
+    "ink": "#C2185B",
+    "accent": "#FF80AB",
+    "canvasW": 1080,
+    "canvasH": 2817
+  },
+  {
+    "id": "strip-ballet",
+    "name": "Ballet",
+    "tag": "Strip · Coquette",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-ballet.png?more20",
+    "thumb": "/frames/by-count/4/strip-ballet-thumb.jpg?more20",
+    "slots": [
+      {
+        "x": 6.39,
+        "y": 3.74,
+        "w": 89.44,
+        "h": 20.55
+      },
+      {
+        "x": 6.48,
+        "y": 24.51,
+        "w": 89.35,
+        "h": 20.48
+      },
+      {
+        "x": 6.57,
+        "y": 45.3,
+        "w": 89.35,
+        "h": 20.39
+      },
+      {
+        "x": 6.39,
+        "y": 65.98,
+        "w": 89.44,
+        "h": 20.55
+      }
+    ],
+    "bg": "#FFF0F5",
+    "ink": "#AD1457",
+    "accent": "#F48FB1",
+    "canvasW": 1080,
+    "canvasH": 3183
+  },
+  {
+    "id": "strip-candy",
+    "name": "Candy",
+    "tag": "Strip · Pop",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-candy.png?hd17",
+    "thumb": "/frames/by-count/4/strip-candy-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 5,
+        "y": 4.77,
+        "w": 79.81,
+        "h": 19.97
+      },
+      {
+        "x": 12.87,
+        "y": 25.88,
+        "w": 72.13,
+        "h": 17.75
+      },
+      {
+        "x": 15.56,
+        "y": 48,
+        "w": 80.93,
+        "h": 19.7
+      },
+      {
+        "x": 4.17,
+        "y": 69.38,
+        "w": 81.48,
+        "h": 19.76
+      }
+    ],
+    "bg": "#FCE4EC",
+    "ink": "#AD1457",
+    "accent": "#F48FB1",
+    "canvasW": 1080,
+    "canvasH": 2975
+  },
+  {
+    "id": "strip-dream",
+    "name": "Dream",
+    "tag": "Strip · Dreamy",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-dream.png?hd17",
+    "thumb": "/frames/by-count/4/strip-dream-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 16.48,
+        "y": 6.04,
+        "w": 67.5,
+        "h": 16.38
+      },
+      {
+        "x": 16.57,
+        "y": 27.15,
+        "w": 67.41,
+        "h": 16.41
+      },
+      {
+        "x": 16.48,
+        "y": 48.29,
+        "w": 67.5,
+        "h": 16.38
+      },
+      {
+        "x": 16.48,
+        "y": 69.44,
+        "w": 67.5,
+        "h": 16.41
+      }
+    ],
+    "bg": "#F3E5F5",
+    "ink": "#6A1B9A",
+    "accent": "#CE93D8",
+    "canvasW": 1080,
+    "canvasH": 3046
+  },
+  {
+    "id": "strip-fearless-house",
+    "name": "Fearless House",
+    "tag": "Strip · Pastel",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-fearless-house.png?hd17",
+    "thumb": "/frames/by-count/4/strip-fearless-house-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 15.28,
+        "y": 11.39,
+        "w": 69.91,
+        "h": 14.8
+      },
+      {
+        "x": 15.09,
+        "y": 29.92,
+        "w": 69.72,
+        "h": 14.8
+      },
+      {
+        "x": 14.07,
+        "y": 49.81,
+        "w": 69.17,
+        "h": 14.91
+      },
+      {
+        "x": 15.28,
+        "y": 69.15,
+        "w": 70.37,
+        "h": 14.86
+      }
+    ],
+    "bg": "#FFE8F0",
+    "ink": "#7E57C2",
+    "accent": "#FF80AB",
+    "canvasW": 1080,
+    "canvasH": 3433
+  },
+  {
+    "id": "strip-kitty",
+    "name": "Kitty",
+    "tag": "Strip · Cat",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-kitty.png?pet21",
+    "thumb": "/frames/by-count/4/strip-kitty-thumb.jpg?pet21",
+    "slots": [
+      {
+        "x": 11.67,
+        "y": 5.05,
+        "w": 74.91,
+        "h": 17.81
+      },
+      {
+        "x": 11.57,
+        "y": 26.46,
+        "w": 75,
+        "h": 17.84
+      },
+      {
+        "x": 11.67,
+        "y": 47.88,
+        "w": 74.91,
+        "h": 17.81
+      },
+      {
+        "x": 11.57,
+        "y": 69.3,
+        "w": 75,
+        "h": 17.84
+      }
+    ],
+    "bg": "#F3E5F5",
+    "ink": "#7B1FA2",
+    "accent": "#CE93D8",
+    "canvasW": 1080,
+    "canvasH": 3072
+  },
+  {
+    "id": "strip-matcha",
+    "name": "Matcha",
+    "tag": "Strip · Calm",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-matcha.png?hd17",
+    "thumb": "/frames/by-count/4/strip-matcha-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 17.78,
+        "y": 6.32,
+        "w": 64.63,
+        "h": 16.48
+      },
+      {
+        "x": 17.87,
+        "y": 26.89,
+        "w": 64.54,
+        "h": 16.48
+      },
+      {
+        "x": 17.78,
+        "y": 47.47,
+        "w": 64.72,
+        "h": 16.51
+      },
+      {
+        "x": 17.87,
+        "y": 68.04,
+        "w": 64.54,
+        "h": 16.51
+      }
+    ],
+    "bg": "#F1F8E9",
+    "ink": "#33691E",
+    "accent": "#AED581",
+    "canvasW": 1080,
+    "canvasH": 3198
+  },
+  {
+    "id": "strip-meow",
+    "name": "Meow",
+    "tag": "Strip · Cat",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-meow.png?hd17",
+    "thumb": "/frames/by-count/4/strip-meow-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 10.65,
+        "y": 4.33,
+        "w": 79.07,
+        "h": 19.11
+      },
+      {
+        "x": 10.65,
+        "y": 26.24,
+        "w": 79.07,
+        "h": 19.11
+      },
+      {
+        "x": 10.65,
+        "y": 48.15,
+        "w": 79.07,
+        "h": 19.07
+      },
+      {
+        "x": 10.65,
+        "y": 70.09,
+        "w": 79.07,
+        "h": 19.04
+      }
+    ],
+    "bg": "#FFE8D0",
+    "ink": "#E85A8C",
+    "accent": "#FFAB91",
+    "canvasW": 1080,
+    "canvasH": 2889
+  },
+  {
+    "id": "strip-paws",
+    "name": "Paws",
+    "tag": "Strip · Pet",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-paws.png?pet21",
+    "thumb": "/frames/by-count/4/strip-paws-thumb.jpg?pet21",
+    "slots": [
+      {
+        "x": 18.89,
+        "y": 4.94,
+        "w": 76.57,
+        "h": 17.44
+      },
+      {
+        "x": 4.81,
+        "y": 27.06,
+        "w": 76.3,
+        "h": 17.39
+      },
+      {
+        "x": 18.89,
+        "y": 49.19,
+        "w": 76.76,
+        "h": 17.31
+      },
+      {
+        "x": 5.19,
+        "y": 71.28,
+        "w": 88.89,
+        "h": 19.62
+      }
+    ],
+    "bg": "#FFF8E1",
+    "ink": "#F48FB1",
+    "accent": "#90CAF9",
+    "canvasW": 1080,
+    "canvasH": 2472
+  },
+  {
+    "id": "strip-puppy",
+    "name": "Puppy",
+    "tag": "Strip · Dog",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-puppy.png?pet21",
+    "thumb": "/frames/by-count/4/strip-puppy-thumb.jpg?pet21",
+    "slots": [
+      {
+        "x": 18.52,
+        "y": 6.04,
+        "w": 61.02,
+        "h": 16.02
+      },
+      {
+        "x": 18.43,
+        "y": 27.07,
+        "w": 61.11,
+        "h": 15.95
+      },
+      {
+        "x": 18.52,
+        "y": 48,
+        "w": 61.02,
+        "h": 15.99
+      },
+      {
+        "x": 18.52,
+        "y": 69.03,
+        "w": 60.93,
+        "h": 15.92
+      }
+    ],
+    "bg": "#E1F5FE",
+    "ink": "#0277BD",
+    "accent": "#4FC3F7",
+    "canvasW": 1080,
+    "canvasH": 2896
+  },
+  {
+    "id": "strip-ribbon",
+    "name": "Ribbon",
+    "tag": "Strip · Coquette",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-ribbon.png?more20",
+    "thumb": "/frames/by-count/4/strip-ribbon-thumb.jpg?more20",
+    "slots": [
+      {
+        "x": 22.22,
+        "y": 9.83,
+        "w": 56.67,
+        "h": 17.97
+      },
+      {
+        "x": 30.37,
+        "y": 30.01,
+        "w": 47.78,
+        "h": 18.23
+      },
+      {
+        "x": 22.13,
+        "y": 49.36,
+        "w": 47.96,
+        "h": 18.28
+      },
+      {
+        "x": 21.85,
+        "y": 69.07,
+        "w": 56.94,
+        "h": 15.05
+      }
+    ],
+    "bg": "#FCE4EC",
+    "ink": "#C2185B",
+    "accent": "#F48FB1",
+    "canvasW": 1080,
+    "canvasH": 1953
+  },
+  {
+    "id": "strip-sage",
+    "name": "Sage",
+    "tag": "Strip · Calm",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-sage.png?more20",
+    "thumb": "/frames/by-count/4/strip-sage-thumb.jpg?more20",
+    "slots": [
+      {
+        "x": 28.8,
+        "y": 4.75,
+        "w": 48.33,
+        "h": 17.93
+      },
+      {
+        "x": 24.26,
+        "y": 27.74,
+        "w": 46.3,
+        "h": 16.05
+      },
+      {
+        "x": 22.87,
+        "y": 45.17,
+        "w": 47.69,
+        "h": 17.73
+      },
+      {
+        "x": 28.8,
+        "y": 67.95,
+        "w": 46.67,
+        "h": 16.89
+      }
+    ],
+    "bg": "#E8F5E9",
+    "ink": "#2E7D32",
+    "accent": "#A5D6A7",
+    "canvasW": 1080,
+    "canvasH": 2019
+  },
+  {
+    "id": "strip-snap",
+    "name": "Snap",
+    "tag": "Strip · Film",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-snap.png?more20",
+    "thumb": "/frames/by-count/4/strip-snap-thumb.jpg?more20",
+    "slots": [
+      {
+        "x": 17.87,
+        "y": 5.76,
+        "w": 64.63,
+        "h": 15.48
+      },
+      {
+        "x": 17.96,
+        "y": 28.06,
+        "w": 64.63,
+        "h": 15.48
+      },
+      {
+        "x": 17.87,
+        "y": 50.4,
+        "w": 64.63,
+        "h": 15.44
+      },
+      {
+        "x": 17.87,
+        "y": 72.71,
+        "w": 64.63,
+        "h": 15.44
+      }
+    ],
+    "bg": "#FCE4EC",
+    "ink": "#AD1457",
+    "accent": "#F8BBD0",
+    "canvasW": 1080,
+    "canvasH": 2726
+  },
+  {
+    "id": "strip-starry",
+    "name": "Starry",
+    "tag": "Strip · Dreamy",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-starry.png?hd17",
+    "thumb": "/frames/by-count/4/strip-starry-thumb.jpg?hd17",
+    "slots": [
+      {
+        "x": 15.56,
+        "y": 4.77,
+        "w": 68.89,
+        "h": 17.22
+      },
+      {
+        "x": 15.56,
+        "y": 25.88,
+        "w": 68.89,
+        "h": 17.19
+      },
+      {
+        "x": 15.56,
+        "y": 46.92,
+        "w": 68.89,
+        "h": 17.22
+      },
+      {
+        "x": 15.56,
+        "y": 67.96,
+        "w": 68.89,
+        "h": 17.25
+      }
+    ],
+    "bg": "#EDE7F6",
+    "ink": "#4527A0",
+    "accent": "#B39DDB",
+    "canvasW": 1080,
+    "canvasH": 2956
+  },
+  {
+    "id": "strip-tabby",
+    "name": "Tabby",
+    "tag": "Strip · Cat",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/strip-tabby.png?pet21",
+    "thumb": "/frames/by-count/4/strip-tabby-thumb.jpg?pet21",
+    "slots": [
+      {
+        "x": 5.46,
+        "y": 6.74,
+        "w": 88.52,
+        "h": 18.61
+      },
+      {
+        "x": 5.37,
+        "y": 27.53,
+        "w": 88.06,
+        "h": 18.44
+      },
+      {
+        "x": 5.46,
+        "y": 48.33,
+        "w": 88.52,
+        "h": 18.71
+      },
+      {
+        "x": 5.46,
+        "y": 69.13,
+        "w": 88.52,
+        "h": 18.71
+      }
+    ],
+    "bg": "#FFF3E0",
+    "ink": "#E65100",
+    "accent": "#FFB74D",
+    "canvasW": 1080,
+    "canvasH": 3058
+  }
+]
