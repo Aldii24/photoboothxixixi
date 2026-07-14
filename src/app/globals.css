@@ -1,18 +1,19 @@
 @import "tailwindcss";
 
 :root {
-  --bg: #fff7fa;
-  --ink: #2b2430;
-  --ink-soft: #6b6275;
-  --ink-muted: #9a91a3;
-  --primary: #ff5c9a;
-  --primary-deep: #e83d7f;
+  --bg: #eaf6ff;
+  --ink: #1f2a38;
+  --ink-soft: #5a6a7d;
+  --ink-muted: #8a9aab;
+  /* Bright sky blue — saturated, not washed-out pastel */
+  --primary: #2eb8ff;
+  --primary-deep: #0a9ef0;
   --sunny: #ffc83d;
   --mint: #3ecf8e;
-  --sky: #6bb0ff;
+  --sky: #4cc9ff;
   --lavender: #b794f6;
-  --stroke: #ffd0e0;
-  --stroke-soft: #ffe8f0;
+  --stroke: #7ed4ff;
+  --stroke-soft: #c8ecff;
   --card: #ffffff;
   --background: var(--bg);
   --foreground: var(--ink);
@@ -33,9 +34,9 @@
   --color-stroke: var(--stroke);
   --color-stroke-soft: var(--stroke-soft);
   --color-card: var(--card);
-  --color-pink-soft: #ffe4ef;
+  --color-pink-soft: #c8ecff;
   --color-mint-soft: #e0faf0;
-  --color-sky-soft: #e8f3ff;
+  --color-sky-soft: #dff3ff;
   --font-sans: var(--font-body);
   --font-display: var(--font-display);
 }
@@ -57,14 +58,14 @@ body {
 
 .bg-soft {
   background:
-    radial-gradient(ellipse 70% 50% at 50% 0%, #ffe4ef 0%, transparent 55%),
-    radial-gradient(ellipse 40% 30% at 100% 80%, #e8f3ff 0%, transparent 50%),
-    #fff7fa;
+    radial-gradient(ellipse 70% 50% at 50% 0%, #9edfff 0%, transparent 55%),
+    radial-gradient(ellipse 40% 30% at 100% 80%, #d4f0ff 0%, transparent 50%),
+    #eaf6ff;
 }
 
 ::selection {
-  background: #ffb3cc;
-  color: #2b2430;
+  background: #7ed4ff;
+  color: #1f2a38;
 }
 
 /* Pattern sticker previews */

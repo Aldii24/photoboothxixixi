@@ -14,7 +14,7 @@ type ButtonProps = HTMLMotionProps<"button"> & {
 
 const variants: Record<Variant, string> = {
   primary:
-    "bg-primary text-white shadow-[0_8px_22px_rgba(255,92,154,0.32)] hover:bg-primary-deep border-transparent",
+    "bg-primary text-white shadow-[0_8px_24px_rgba(46,184,255,0.55)] hover:bg-primary-deep border-transparent",
   secondary:
     "bg-white text-ink border-2 border-stroke shadow-sm hover:border-primary hover:text-primary",
   ghost: "bg-transparent text-ink-soft border-transparent hover:bg-white/70",

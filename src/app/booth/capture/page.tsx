@@ -147,7 +147,7 @@ export default function CapturePage() {
         <div className="grid gap-5 lg:grid-cols-[1fr_260px]">
           {/* Camera */}
           <div>
-            <div className="relative overflow-hidden rounded-[28px] border-[3px] border-white bg-ink shadow-[0_16px_40px_rgba(255,92,154,0.15)]">
+            <div className="relative overflow-hidden rounded-[28px] border-[3px] border-white bg-ink shadow-[0_16px_40px_rgba(46,184,255,0.28)]">
               {error ? (
                 <div className="flex aspect-[4/3] items-center justify-center bg-pink-soft p-6 text-center text-sm font-semibold text-ink-soft">
                   {error}

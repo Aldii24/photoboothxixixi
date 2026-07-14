@@ -53,7 +53,7 @@ export function PhotoStrip({
         "relative w-full overflow-hidden",
         compact
           ? "rounded-xl border border-black/10"
-          : "rounded-[16px] border-2 shadow-[0_16px_40px_rgba(255,92,154,0.2)]",
+          : "rounded-[16px] border-2 shadow-[0_16px_40px_rgba(46,184,255,0.35)]",
         className,
       )}
       style={{

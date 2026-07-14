@@ -24,7 +24,7 @@ export default function HomePage() {
         animate={{ y: [0, 10, 0], rotate: [0, 12, 0] }}
         transition={{ duration: 3.8, repeat: Infinity, ease: "easeInOut" }}
       >
-        💕
+        💙
       </motion.span>
 
       <header className="mx-auto flex w-full max-w-3xl items-center justify-between px-5 py-5">
@@ -55,7 +55,7 @@ export default function HomePage() {
               width={200}
               height={200}
               priority
-              className="relative mx-auto h-40 w-40 rounded-[32px] border-4 border-white object-cover shadow-[0_16px_40px_rgba(255,92,154,0.25)] sm:h-48 sm:w-48"
+              className="relative mx-auto h-40 w-40 rounded-[32px] border-4 border-white object-cover shadow-[0_16px_40px_rgba(46,184,255,0.45)] sm:h-48 sm:w-48"
             />
           </motion.div>
         </motion.div>

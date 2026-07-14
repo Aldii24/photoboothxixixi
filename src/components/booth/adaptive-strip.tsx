@@ -83,7 +83,7 @@ export function AdaptiveStrip({
         "relative w-full overflow-hidden",
         compact
           ? "rounded-xl border-[3px]"
-          : "rounded-[24px] border-[6px] shadow-[0_20px_50px_rgba(255,92,154,0.25)]",
+          : "rounded-[24px] border-[6px] shadow-[0_20px_50px_rgba(46,184,255,0.38)]",
         className,
       )}
       style={{
