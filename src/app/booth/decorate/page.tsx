@@ -1,9 +1,9 @@
 "use client";
 
-import { useCallback, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import Link from "next/link";
 import { toPng } from "html-to-image";
-import { Download, RefreshCcw } from "lucide-react";
+import { Download, RefreshCcw, Share2 } from "lucide-react";
 import { BoothHeader } from "@/components/booth/booth-header";
 import { PhotoStrip } from "@/components/booth/photo-strip";
 import { FrameTemplateCard } from "@/components/booth/frame-template-card";
@@ -13,6 +13,15 @@ import { FOOTER_FONTS, STICKERS } from "@/lib/booth-config";
 import { framesForCount } from "@/lib/frame-catalog";
 import { useBooth } from "@/lib/booth-store";
 import { cn, saveImage } from "@/lib/utils";
+
+function detectMobile(): boolean {
+  if (typeof navigator === "undefined") return false;
+  return (
+    /iPad|iPhone|iPod/.test(navigator.userAgent) ||
+    (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1) ||
+    window.innerWidth < 768
+  );
+}
 
 export default function DecoratePage() {
   const {
@@ -39,6 +48,14 @@ export default function DecoratePage() {
   const [activeSticker, setActiveSticker] = useState<string | null>(null);
   const [downloading, setDownloading] = useState(false);
   const [tab, setTab] = useState<"template" | "sticker" | "text">("template");
+  const [isMobile, setIsMobile] = useState(false);
+
+  useEffect(() => {
+    const update = () => setIsMobile(detectMobile());
+    update();
+    window.addEventListener("resize", update);
+    return () => window.removeEventListener("resize", update);
+  }, []);
 
   /** Only templates for this exact photo count */
   const availableFrames = useMemo(
@@ -117,13 +134,8 @@ export default function DecoratePage() {
     try {
       await new Promise((r) => requestAnimationFrame(() => r(null)));
 
-      // iOS Safari struggles with huge canvases (pixelRatio 4) — use 2–3 on mobile
-      const isMobile =
-        typeof navigator !== "undefined" &&
-        (/iPad|iPhone|iPod/.test(navigator.userAgent) ||
-          (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1) ||
-          window.innerWidth < 768);
-      const pixelRatio = isMobile ? 2 : 4;
+      // iOS Safari struggles with huge canvases (pixelRatio 4) — use 2 on mobile
+      const pixelRatio = detectMobile() ? 2 : 4;
 
       const dataUrl = await toPng(node, {
         cacheBust: true,
@@ -353,9 +365,22 @@ export default function DecoratePage() {
                 onClick={() => void download()}
                 disabled={downloading}
                 className="min-w-[160px]"
+                title={
+                  isMobile
+                    ? "Buka share sheet iOS/Android untuk simpan ke Galeri"
+                    : "Unduh PNG ke perangkat"
+                }
               >
-                <Download className="h-4 w-4" />
-                {downloading ? "Menyimpan..." : "Unduh"}
+                {isMobile ? (
+                  <Share2 className="h-4 w-4" />
+                ) : (
+                  <Download className="h-4 w-4" />
+                )}
+                {downloading
+                  ? "Menyiapkan..."
+                  : isMobile
+                    ? "Bagikan / Simpan"
+                    : "Unduh"}
               </Button>
               <Link href="/booth/review">
                 <Button size="lg" variant="outline" className="min-w-[160px]">
