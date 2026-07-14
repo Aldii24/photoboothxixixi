@@ -12,7 +12,7 @@ import { Button } from "@/components/ui/button";
 import { FOOTER_FONTS, STICKERS } from "@/lib/booth-config";
 import { framesForCount } from "@/lib/frame-catalog";
 import { useBooth } from "@/lib/booth-store";
-import { cn } from "@/lib/utils";
+import { cn, saveImage } from "@/lib/utils";
 
 export default function DecoratePage() {
   const {
@@ -116,16 +116,24 @@ export default function DecoratePage() {
     setDownloading(true);
     try {
       await new Promise((r) => requestAnimationFrame(() => r(null)));
+
+      // iOS Safari struggles with huge canvases (pixelRatio 4) — use 2–3 on mobile
+      const isMobile =
+        typeof navigator !== "undefined" &&
+        (/iPad|iPhone|iPod/.test(navigator.userAgent) ||
+          (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1) ||
+          window.innerWidth < 768);
+      const pixelRatio = isMobile ? 2 : 4;
+
       const dataUrl = await toPng(node, {
         cacheBust: true,
-        pixelRatio: 4, // HD export
+        pixelRatio,
         backgroundColor: frame.bg || "#fff8f3",
         quality: 1,
       });
-      const a = document.createElement("a");
-      a.href = dataUrl;
-      a.download = `photobox-${frame.id}-${shotCount}foto-${Date.now()}.png`;
-      a.click();
+
+      const filename = `photobox-${frame.id}-${shotCount}foto-${Date.now()}.png`;
+      await saveImage(dataUrl, filename);
     } catch (err) {
       console.error(err);
       alert("Gagal unduh. Hard-refresh (Ctrl+Shift+R) lalu coba lagi.");
