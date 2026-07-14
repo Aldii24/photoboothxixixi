@@ -50,6 +50,7 @@ export function PhotoStrip({
       data-photobox-strip
       data-frame-id={frame.id}
       className={cn(
+        // overflow-hidden only for on-screen chrome; export temporarily overrides
         "relative w-full overflow-hidden",
         compact
           ? "rounded-xl border border-black/10"
@@ -57,8 +58,8 @@ export function PhotoStrip({
         className,
       )}
       style={{
-        backgroundColor: frame.bg || "#fff8f3",
-        borderColor: frame.bg || "#fff8f3",
+        backgroundColor: frame.bg || "#ffffff",
+        borderColor: frame.bg || "#ffffff",
         ...aspectStyle,
       }}
     >
@@ -103,8 +104,11 @@ export function PhotoStrip({
       <img
         src={frame.overlay}
         alt={frame.name}
+        // object-fill keeps overlay aligned to catalog slots; no crop of theme art
         className="pointer-events-none absolute inset-0 z-[5] h-full w-full object-fill select-none"
         draggable={false}
+        // Help html-to-image wait for overlay before export
+        crossOrigin="anonymous"
       />
 
       {(showCaption || showDate) && !compact && (
