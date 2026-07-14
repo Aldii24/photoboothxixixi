@@ -1,5 +1,1193 @@
 [
   {
+    "id": "ghibli-totoro-4",
+    "name": "Totoro",
+    "tag": "Ghibli · Totoro",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/ghibli-totoro-4.png?ghibli3",
+    "thumb": "/frames/by-count/4/ghibli-totoro-4-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 17.22,
+        "y": 10.25,
+        "w": 64.72,
+        "h": 18.2
+      },
+      {
+        "x": 17.22,
+        "y": 30.76,
+        "w": 64.72,
+        "h": 18.13
+      },
+      {
+        "x": 17.22,
+        "y": 51.19,
+        "w": 64.72,
+        "h": 18.2
+      },
+      {
+        "x": 17.22,
+        "y": 71.69,
+        "w": 64.72,
+        "h": 18.2
+      }
+    ],
+    "bg": "#E8F5E9",
+    "ink": "#2E5A3C",
+    "accent": "#A5D6A7",
+    "canvasW": 720,
+    "canvasH": 1346
+  },
+  {
+    "id": "ghibli-rainy-4",
+    "name": "Rainy Day",
+    "tag": "Ghibli · Totoro",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/ghibli-rainy-4.png?ghibli3",
+    "thumb": "/frames/by-count/4/ghibli-rainy-4-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 27.92,
+        "y": 14.92,
+        "w": 44.17,
+        "h": 16.09
+      },
+      {
+        "x": 27.92,
+        "y": 32.97,
+        "w": 44.17,
+        "h": 16.02
+      },
+      {
+        "x": 27.92,
+        "y": 50.86,
+        "w": 44.17,
+        "h": 16.09
+      },
+      {
+        "x": 27.92,
+        "y": 68.91,
+        "w": 44.17,
+        "h": 16.09
+      }
+    ],
+    "bg": "#E3F2FD",
+    "ink": "#1565C0",
+    "accent": "#90CAF9",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-night-4",
+    "name": "Night Forest",
+    "tag": "Ghibli · Totoro",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/ghibli-night-4.png?ghibli3",
+    "thumb": "/frames/by-count/4/ghibli-night-4-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 25.14,
+        "y": 10.86,
+        "w": 49.72,
+        "h": 17.81
+      },
+      {
+        "x": 25.14,
+        "y": 31.02,
+        "w": 49.72,
+        "h": 17.81
+      },
+      {
+        "x": 25.14,
+        "y": 51.17,
+        "w": 49.72,
+        "h": 17.73
+      },
+      {
+        "x": 25.14,
+        "y": 71.33,
+        "w": 49.72,
+        "h": 17.73
+      }
+    ],
+    "bg": "#1A237E",
+    "ink": "#E8EAF6",
+    "accent": "#7986CB",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-catbus-4",
+    "name": "Catbus",
+    "tag": "Ghibli · Totoro",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/ghibli-catbus-4.png?ghibli3",
+    "thumb": "/frames/by-count/4/ghibli-catbus-4-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 23.61,
+        "y": 6.8,
+        "w": 52.78,
+        "h": 19.69
+      },
+      {
+        "x": 23.61,
+        "y": 29.06,
+        "w": 52.78,
+        "h": 19.61
+      },
+      {
+        "x": 23.61,
+        "y": 51.25,
+        "w": 52.78,
+        "h": 19.69
+      },
+      {
+        "x": 23.61,
+        "y": 73.52,
+        "w": 52.78,
+        "h": 19.61
+      }
+    ],
+    "bg": "#1B3A2F",
+    "ink": "#FFF59D",
+    "accent": "#FFD54F",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-ponyo-4",
+    "name": "Ponyo",
+    "tag": "Ghibli · Ponyo",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/ghibli-ponyo-4.png?ghibli3",
+    "thumb": "/frames/by-count/4/ghibli-ponyo-4-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 24.58,
+        "y": 10.31,
+        "w": 51.11,
+        "h": 19.3
+      },
+      {
+        "x": 24.58,
+        "y": 31.64,
+        "w": 51.11,
+        "h": 19.3
+      },
+      {
+        "x": 24.58,
+        "y": 52.97,
+        "w": 51.11,
+        "h": 19.3
+      },
+      {
+        "x": 24.58,
+        "y": 74.3,
+        "w": 51.25,
+        "h": 19.3
+      }
+    ],
+    "bg": "#E0F7FA",
+    "ink": "#006064",
+    "accent": "#4DD0E1",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-seawave-4",
+    "name": "Sea Wave",
+    "tag": "Ghibli · Ponyo",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/ghibli-seawave-4.png?ghibli3",
+    "thumb": "/frames/by-count/4/ghibli-seawave-4-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 24.72,
+        "y": 12.97,
+        "w": 50.42,
+        "h": 16.8
+      },
+      {
+        "x": 24.86,
+        "y": 33.98,
+        "w": 50.28,
+        "h": 16.8
+      },
+      {
+        "x": 24.86,
+        "y": 55,
+        "w": 50.42,
+        "h": 16.8
+      },
+      {
+        "x": 24.86,
+        "y": 76.02,
+        "w": 50.42,
+        "h": 16.72
+      }
+    ],
+    "bg": "#B2EBF2",
+    "ink": "#01579B",
+    "accent": "#26C6DA",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-undersea-4",
+    "name": "Undersea",
+    "tag": "Ghibli · Ponyo",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/ghibli-undersea-4.png?ghibli3",
+    "thumb": "/frames/by-count/4/ghibli-undersea-4-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 13.47,
+        "y": 25.79,
+        "w": 48.89,
+        "h": 14.47
+      },
+      {
+        "x": 13.33,
+        "y": 43.4,
+        "w": 49.03,
+        "h": 14.47
+      },
+      {
+        "x": 13.33,
+        "y": 60.93,
+        "w": 48.89,
+        "h": 14.62
+      },
+      {
+        "x": 13.33,
+        "y": 78.62,
+        "w": 49.03,
+        "h": 14.54
+      }
+    ],
+    "bg": "#E0F2F1",
+    "ink": "#004D40",
+    "accent": "#80CBC4",
+    "canvasW": 720,
+    "canvasH": 1272
+  },
+  {
+    "id": "ghibli-arrietty",
+    "name": "Arrietty",
+    "tag": "Ghibli · Arrietty",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/ghibli-arrietty.png?ghibli3",
+    "thumb": "/frames/by-count/2/ghibli-arrietty-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 21.39,
+        "y": 18.98,
+        "w": 57.36,
+        "h": 32.11
+      },
+      {
+        "x": 21.39,
+        "y": 56.25,
+        "w": 57.36,
+        "h": 32.03
+      }
+    ],
+    "bg": "#F1F8E9",
+    "ink": "#33691E",
+    "accent": "#AED581",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-arrietty-3",
+    "name": "Arrietty",
+    "tag": "Ghibli · Arrietty",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/ghibli-arrietty-3.png?ghibli3",
+    "thumb": "/frames/by-count/3/ghibli-arrietty-3-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 18.06,
+        "y": 10.24,
+        "w": 64.17,
+        "h": 24.37
+      },
+      {
+        "x": 18.19,
+        "y": 38.65,
+        "w": 63.75,
+        "h": 24.44
+      },
+      {
+        "x": 18.06,
+        "y": 67.14,
+        "w": 64.03,
+        "h": 24.44
+      }
+    ],
+    "bg": "#F1F8E9",
+    "ink": "#33691E",
+    "accent": "#AED581",
+    "canvasW": 720,
+    "canvasH": 1260
+  },
+  {
+    "id": "ghibli-arrietty-4",
+    "name": "Arrietty",
+    "tag": "Ghibli · Arrietty",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/ghibli-arrietty-4.png?ghibli3",
+    "thumb": "/frames/by-count/4/ghibli-arrietty-4-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 24.31,
+        "y": 15.18,
+        "w": 51.67,
+        "h": 14.72
+      },
+      {
+        "x": 23.89,
+        "y": 34.1,
+        "w": 52.22,
+        "h": 14.8
+      },
+      {
+        "x": 24.17,
+        "y": 53.17,
+        "w": 51.81,
+        "h": 14.65
+      },
+      {
+        "x": 24.17,
+        "y": 72.16,
+        "w": 51.94,
+        "h": 14.72
+      }
+    ],
+    "bg": "#F1F8E9",
+    "ink": "#33691E",
+    "accent": "#AED581",
+    "canvasW": 720,
+    "canvasH": 1311
+  },
+  {
+    "id": "ghibli-borrowers",
+    "name": "Borrowers",
+    "tag": "Ghibli · Arrietty",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/ghibli-borrowers.png?ghibli3",
+    "thumb": "/frames/by-count/2/ghibli-borrowers-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 20.69,
+        "y": 5.56,
+        "w": 58.47,
+        "h": 19.51
+      },
+      {
+        "x": 20.97,
+        "y": 27.82,
+        "w": 58.61,
+        "h": 19.66
+      }
+    ],
+    "bg": "#FFF8E1",
+    "ink": "#5D4037",
+    "accent": "#D7CCC8",
+    "canvasW": 720,
+    "canvasH": 1348
+  },
+  {
+    "id": "ghibli-borrowers-3",
+    "name": "Borrowers",
+    "tag": "Ghibli · Arrietty",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/ghibli-borrowers-3.png?ghibli3",
+    "thumb": "/frames/by-count/3/ghibli-borrowers-3-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 11.25,
+        "y": 14.16,
+        "w": 77.22,
+        "h": 21.54
+      },
+      {
+        "x": 11.25,
+        "y": 38.5,
+        "w": 77.22,
+        "h": 21.54
+      },
+      {
+        "x": 11.25,
+        "y": 62.84,
+        "w": 77.22,
+        "h": 21.54
+      }
+    ],
+    "bg": "#FFF8E1",
+    "ink": "#5D4037",
+    "accent": "#D7CCC8",
+    "canvasW": 720,
+    "canvasH": 1857
+  },
+  {
+    "id": "ghibli-borrowers-4",
+    "name": "Borrowers",
+    "tag": "Ghibli · Arrietty",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/ghibli-borrowers-4.png?ghibli3",
+    "thumb": "/frames/by-count/4/ghibli-borrowers-4-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 26.81,
+        "y": 10.94,
+        "w": 46.53,
+        "h": 18.83
+      },
+      {
+        "x": 26.81,
+        "y": 31.87,
+        "w": 46.39,
+        "h": 18.83
+      },
+      {
+        "x": 26.81,
+        "y": 52.81,
+        "w": 46.53,
+        "h": 18.83
+      },
+      {
+        "x": 26.81,
+        "y": 73.75,
+        "w": 46.53,
+        "h": 18.83
+      }
+    ],
+    "bg": "#FFF8E1",
+    "ink": "#5D4037",
+    "accent": "#D7CCC8",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-kiki-4",
+    "name": "Kiki",
+    "tag": "Ghibli · Kiki",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/ghibli-kiki-4.png?ghibli3",
+    "thumb": "/frames/by-count/4/ghibli-kiki-4-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 24.58,
+        "y": 13.44,
+        "w": 51.11,
+        "h": 18.75
+      },
+      {
+        "x": 24.58,
+        "y": 34.84,
+        "w": 51.11,
+        "h": 18.75
+      },
+      {
+        "x": 24.58,
+        "y": 56.33,
+        "w": 51.11,
+        "h": 18.75
+      },
+      {
+        "x": 24.58,
+        "y": 77.73,
+        "w": 51.11,
+        "h": 18.75
+      }
+    ],
+    "bg": "#E8EAF6",
+    "ink": "#4527A0",
+    "accent": "#B39DDB",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-jiji-4",
+    "name": "Jiji",
+    "tag": "Ghibli · Kiki",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/ghibli-jiji-4.png?ghibli3",
+    "thumb": "/frames/by-count/4/ghibli-jiji-4-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 22.36,
+        "y": 12.58,
+        "w": 55.28,
+        "h": 17.19
+      },
+      {
+        "x": 22.36,
+        "y": 32.58,
+        "w": 55.28,
+        "h": 17.19
+      },
+      {
+        "x": 22.36,
+        "y": 52.58,
+        "w": 55.28,
+        "h": 17.19
+      },
+      {
+        "x": 22.36,
+        "y": 72.66,
+        "w": 55.28,
+        "h": 17.27
+      }
+    ],
+    "bg": "#311B92",
+    "ink": "#EDE7F6",
+    "accent": "#CE93D8",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-delivery-4",
+    "name": "Delivery",
+    "tag": "Ghibli · Kiki",
+    "shots": 4,
+    "overlay": "/frames/by-count/4/ghibli-delivery-4.png?ghibli3",
+    "thumb": "/frames/by-count/4/ghibli-delivery-4-thumb.jpg?ghibli3",
+    "slots": [
+      {
+        "x": 25.14,
+        "y": 11.25,
+        "w": 49.72,
+        "h": 17.81
+      },
+      {
+        "x": 25.14,
+        "y": 31.25,
+        "w": 49.72,
+        "h": 17.81
+      },
+      {
+        "x": 25.14,
+        "y": 51.25,
+        "w": 52.22,
+        "h": 17.89
+      },
+      {
+        "x": 25.14,
+        "y": 71.33,
+        "w": 49.72,
+        "h": 17.81
+      }
+    ],
+    "bg": "#FCE4EC",
+    "ink": "#6A1B9A",
+    "accent": "#F8BBD0",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-totoro",
+    "name": "Totoro",
+    "tag": "Ghibli · Totoro",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/ghibli-totoro.png?ghibli1",
+    "thumb": "/frames/by-count/2/ghibli-totoro-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 0,
+        "y": 21.41,
+        "w": 94.58,
+        "h": 26.72
+      },
+      {
+        "x": 17.64,
+        "y": 51.64,
+        "w": 82.36,
+        "h": 26.8
+      }
+    ],
+    "bg": "#E8F5E9",
+    "ink": "#2E5A3C",
+    "accent": "#A5D6A7",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-totoro-3",
+    "name": "Totoro",
+    "tag": "Ghibli · Totoro",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/ghibli-totoro-3.png?ghibli1",
+    "thumb": "/frames/by-count/3/ghibli-totoro-3-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 22.36,
+        "y": 15.47,
+        "w": 71.81,
+        "h": 18.44
+      },
+      {
+        "x": 22.22,
+        "y": 37.58,
+        "w": 65,
+        "h": 18.59
+      },
+      {
+        "x": 22.36,
+        "y": 59.84,
+        "w": 67.64,
+        "h": 18.36
+      }
+    ],
+    "bg": "#E8F5E9",
+    "ink": "#2E5A3C",
+    "accent": "#A5D6A7",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-rainy",
+    "name": "Rainy Day",
+    "tag": "Ghibli · Totoro",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/ghibli-rainy.png?ghibli1",
+    "thumb": "/frames/by-count/2/ghibli-rainy-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 28.06,
+        "y": 16.33,
+        "w": 65.14,
+        "h": 31.33
+      },
+      {
+        "x": 28.06,
+        "y": 52.34,
+        "w": 71.94,
+        "h": 31.33
+      }
+    ],
+    "bg": "#E3F2FD",
+    "ink": "#1565C0",
+    "accent": "#90CAF9",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-rainy-3",
+    "name": "Rainy Day",
+    "tag": "Ghibli · Totoro",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/ghibli-rainy-3.png?ghibli1",
+    "thumb": "/frames/by-count/3/ghibli-rainy-3-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 16.25,
+        "y": 16.41,
+        "w": 59.44,
+        "h": 19.77
+      },
+      {
+        "x": 28.06,
+        "y": 40.08,
+        "w": 43.89,
+        "h": 19.77
+      },
+      {
+        "x": 28.06,
+        "y": 63.83,
+        "w": 71.94,
+        "h": 19.84
+      }
+    ],
+    "bg": "#E3F2FD",
+    "ink": "#1565C0",
+    "accent": "#90CAF9",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-night",
+    "name": "Night Forest",
+    "tag": "Ghibli · Totoro",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/ghibli-night.png?ghibli1",
+    "thumb": "/frames/by-count/2/ghibli-night-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 27.22,
+        "y": 25.16,
+        "w": 45.83,
+        "h": 20.63
+      },
+      {
+        "x": 31.11,
+        "y": 51.72,
+        "w": 55.97,
+        "h": 17.66
+      }
+    ],
+    "bg": "#1A237E",
+    "ink": "#E8EAF6",
+    "accent": "#7986CB",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-night-3",
+    "name": "Night Forest",
+    "tag": "Ghibli · Totoro",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/ghibli-night-3.png?ghibli1",
+    "thumb": "/frames/by-count/3/ghibli-night-3-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 27.22,
+        "y": 25.16,
+        "w": 40.97,
+        "h": 10.7
+      },
+      {
+        "x": 31.11,
+        "y": 40.86,
+        "w": 41.81,
+        "h": 10.78
+      },
+      {
+        "x": 31.11,
+        "y": 56.56,
+        "w": 56.25,
+        "h": 10.78
+      }
+    ],
+    "bg": "#1A237E",
+    "ink": "#E8EAF6",
+    "accent": "#7986CB",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-catbus",
+    "name": "Catbus",
+    "tag": "Ghibli · Totoro",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/ghibli-catbus.png?ghibli1",
+    "thumb": "/frames/by-count/2/ghibli-catbus-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 22.08,
+        "y": 10.63,
+        "w": 56.39,
+        "h": 20.7
+      },
+      {
+        "x": 22.08,
+        "y": 60.23,
+        "w": 56.39,
+        "h": 20.7
+      }
+    ],
+    "bg": "#1B3A2F",
+    "ink": "#FFF59D",
+    "accent": "#FFD54F",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-catbus-3",
+    "name": "Catbus",
+    "tag": "Ghibli · Totoro",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/ghibli-catbus-3.png?ghibli1",
+    "thumb": "/frames/by-count/3/ghibli-catbus-3-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 32.92,
+        "y": 9.69,
+        "w": 34.31,
+        "h": 14.61
+      },
+      {
+        "x": 32.92,
+        "y": 28.59,
+        "w": 34.44,
+        "h": 14.69
+      },
+      {
+        "x": 32.92,
+        "y": 69.45,
+        "w": 34.44,
+        "h": 14.61
+      }
+    ],
+    "bg": "#1B3A2F",
+    "ink": "#FFF59D",
+    "accent": "#FFD54F",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-ponyo",
+    "name": "Ponyo",
+    "tag": "Ghibli · Ponyo",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/ghibli-ponyo.png?ghibli1",
+    "thumb": "/frames/by-count/2/ghibli-ponyo-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 16.81,
+        "y": 22.97,
+        "w": 67.36,
+        "h": 24.92
+      },
+      {
+        "x": 16.81,
+        "y": 54.22,
+        "w": 67.36,
+        "h": 24.92
+      }
+    ],
+    "bg": "#E0F7FA",
+    "ink": "#006064",
+    "accent": "#4DD0E1",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-ponyo-3",
+    "name": "Ponyo",
+    "tag": "Ghibli · Ponyo",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/ghibli-ponyo-3.png?ghibli1",
+    "thumb": "/frames/by-count/3/ghibli-ponyo-3-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 26.94,
+        "y": 22.97,
+        "w": 47.22,
+        "h": 16.48
+      },
+      {
+        "x": 26.94,
+        "y": 43.98,
+        "w": 47.22,
+        "h": 16.56
+      },
+      {
+        "x": 12.22,
+        "y": 65,
+        "w": 61.94,
+        "h": 16.64
+      }
+    ],
+    "bg": "#E0F7FA",
+    "ink": "#006064",
+    "accent": "#4DD0E1",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-seawave",
+    "name": "Sea Wave",
+    "tag": "Ghibli · Ponyo",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/ghibli-seawave.png?ghibli1",
+    "thumb": "/frames/by-count/2/ghibli-seawave-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 20.56,
+        "y": 25.62,
+        "w": 68.61,
+        "h": 22.19
+      },
+      {
+        "x": 8.75,
+        "y": 54.77,
+        "w": 86.11,
+        "h": 22.11
+      }
+    ],
+    "bg": "#B2EBF2",
+    "ink": "#01579B",
+    "accent": "#26C6DA",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-seawave-3",
+    "name": "Sea Wave",
+    "tag": "Ghibli · Ponyo",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/ghibli-seawave-3.png?ghibli1",
+    "thumb": "/frames/by-count/3/ghibli-seawave-3-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 29.17,
+        "y": 21.48,
+        "w": 59.17,
+        "h": 16.56
+      },
+      {
+        "x": 12.36,
+        "y": 41.17,
+        "w": 76.81,
+        "h": 16.56
+      },
+      {
+        "x": 9.03,
+        "y": 60.7,
+        "w": 61.67,
+        "h": 15.78
+      }
+    ],
+    "bg": "#B2EBF2",
+    "ink": "#01579B",
+    "accent": "#26C6DA",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-undersea",
+    "name": "Undersea",
+    "tag": "Ghibli · Ponyo",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/ghibli-undersea.png?ghibli1",
+    "thumb": "/frames/by-count/2/ghibli-undersea-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 10.83,
+        "y": 26.25,
+        "w": 88.47,
+        "h": 19.45
+      },
+      {
+        "x": 3.06,
+        "y": 55.31,
+        "w": 96.94,
+        "h": 19.45
+      }
+    ],
+    "bg": "#E0F2F1",
+    "ink": "#004D40",
+    "accent": "#80CBC4",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-undersea-3",
+    "name": "Undersea",
+    "tag": "Ghibli · Ponyo",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/ghibli-undersea-3.png?ghibli1",
+    "thumb": "/frames/by-count/3/ghibli-undersea-3-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 17.36,
+        "y": 15.23,
+        "w": 68.33,
+        "h": 16.25
+      },
+      {
+        "x": 17.08,
+        "y": 38.67,
+        "w": 52.64,
+        "h": 16.02
+      },
+      {
+        "x": 30.28,
+        "y": 61.88,
+        "w": 69.72,
+        "h": 16.02
+      }
+    ],
+    "bg": "#E0F2F1",
+    "ink": "#004D40",
+    "accent": "#80CBC4",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-kiki",
+    "name": "Kiki",
+    "tag": "Ghibli · Kiki",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/ghibli-kiki.png?ghibli1",
+    "thumb": "/frames/by-count/2/ghibli-kiki-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 0,
+        "y": 16.64,
+        "w": 100,
+        "h": 30.47
+      },
+      {
+        "x": 0,
+        "y": 52.19,
+        "w": 100,
+        "h": 29.61
+      }
+    ],
+    "bg": "#E8EAF6",
+    "ink": "#4527A0",
+    "accent": "#B39DDB",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-kiki-3",
+    "name": "Kiki",
+    "tag": "Ghibli · Kiki",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/ghibli-kiki-3.png?ghibli1",
+    "thumb": "/frames/by-count/3/ghibli-kiki-3-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 0,
+        "y": 16.72,
+        "w": 100,
+        "h": 19.06
+      },
+      {
+        "x": 0,
+        "y": 39.53,
+        "w": 100,
+        "h": 18.98
+      },
+      {
+        "x": 0,
+        "y": 62.66,
+        "w": 100,
+        "h": 19.06
+      }
+    ],
+    "bg": "#E8EAF6",
+    "ink": "#4527A0",
+    "accent": "#B39DDB",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-jiji",
+    "name": "Jiji",
+    "tag": "Ghibli · Kiki",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/ghibli-jiji.png?ghibli1",
+    "thumb": "/frames/by-count/2/ghibli-jiji-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 11.94,
+        "y": 24.53,
+        "w": 72.78,
+        "h": 22.03
+      },
+      {
+        "x": 10.14,
+        "y": 53.59,
+        "w": 82.92,
+        "h": 21.88
+      }
+    ],
+    "bg": "#311B92",
+    "ink": "#EDE7F6",
+    "accent": "#CE93D8",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-jiji-3",
+    "name": "Jiji",
+    "tag": "Ghibli · Kiki",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/ghibli-jiji-3.png?ghibli1",
+    "thumb": "/frames/by-count/3/ghibli-jiji-3-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 29.03,
+        "y": 21.95,
+        "w": 55.69,
+        "h": 15.16
+      },
+      {
+        "x": 10.14,
+        "y": 42.97,
+        "w": 82.08,
+        "h": 15.08
+      },
+      {
+        "x": 29.17,
+        "y": 63.98,
+        "w": 58.75,
+        "h": 15.08
+      }
+    ],
+    "bg": "#311B92",
+    "ink": "#EDE7F6",
+    "accent": "#CE93D8",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
+    "id": "ghibli-delivery",
+    "name": "Delivery",
+    "tag": "Ghibli · Kiki",
+    "shots": 2,
+    "overlay": "/frames/by-count/2/ghibli-delivery.png?ghibli1",
+    "thumb": "/frames/by-count/2/ghibli-delivery-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 0,
+        "y": 22.02,
+        "w": 100,
+        "h": 19.24
+      },
+      {
+        "x": 0,
+        "y": 60.36,
+        "w": 100,
+        "h": 19.32
+      }
+    ],
+    "bg": "#FCE4EC",
+    "ink": "#6A1B9A",
+    "accent": "#F8BBD0",
+    "canvasW": 720,
+    "canvasH": 1294
+  },
+  {
+    "id": "ghibli-delivery-3",
+    "name": "Delivery",
+    "tag": "Ghibli · Kiki",
+    "shots": 3,
+    "overlay": "/frames/by-count/3/ghibli-delivery-3.png?ghibli1",
+    "thumb": "/frames/by-count/3/ghibli-delivery-3-thumb.jpg?ghibli1",
+    "slots": [
+      {
+        "x": 23.75,
+        "y": 14.37,
+        "w": 52.5,
+        "h": 21.33
+      },
+      {
+        "x": 23.75,
+        "y": 38.75,
+        "w": 52.5,
+        "h": 21.41
+      },
+      {
+        "x": 23.75,
+        "y": 63.2,
+        "w": 52.5,
+        "h": 21.33
+      }
+    ],
+    "bg": "#FCE4EC",
+    "ink": "#6A1B9A",
+    "accent": "#F8BBD0",
+    "canvasW": 720,
+    "canvasH": 1280
+  },
+  {
     "id": "strip-beach",
     "name": "Beach",
     "tag": "Strip · Summer",
